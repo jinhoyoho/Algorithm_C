@@ -1,0 +1,15 @@
+# week_6
+
+![6_1](../.jpg/week_6/week_6_1.jpg)
+![6_2](../.jpg/week_6/week_6_2.jpg)
+![6_3](../.jpg/week_6/week_6_3.jpg)
+![6_4](../.jpg/week_6/week_6_4.jpg)
+![6_5](../.jpg/week_6/week_6_5.jpg)
+![6_6](../.jpg/week_6/week_6_6.jpg)
+![6_7](../.jpg/week_6/week_6_7.jpg)
+![6_8](../.jpg/week_6/week_6_8.jpg)
+![6_9](../.jpg/week_6/week_6_9.jpg)
+![6_result1](./1번.PNG)
+![6_result2](./2번.PNG)
+![6_result3](./3번.PNG)
+![6_result4](./4번.PNG)

@@ -6,3 +6,5 @@
 ![1_4](../.jpg/week_1/week_1_4.jpg)
 ![1_5](../.jpg/week_1/week_1_5.jpg)
 ![1_6](../.jpg/week_1/week_1_6.jpg)
+![1_result1](./1번.PNG)
+![1_result2](./2번.PNG)
